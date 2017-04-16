@@ -1,0 +1,25 @@
+{
+  "name": "freedcamp",
+  "version": "1.0.0",
+  "description": "freedcamp",
+  "main": "index.js",
+  "author": "Satoshi Kaji <kaji@soramitsu.co.jp>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://freedcamp.com",
+    "serviceName": "freedcamp",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": true,
+    "wording": {
+      "url": "freedcamp",
+      "team": "freedcamp"
+    },
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
